@@ -1,5 +1,7 @@
 # Go Circuit Breaker
 
+![Diagram](./assets/diagram.png)
+
 Go Circuit Breaker is a robust and flexible Go package that provides a Circuit Breaker implementation for managing unreliable or slow dependencies in your Go applications. It helps improve the resilience and reliability of your services by preventing cascading failures and allowing graceful handling of failing components.
 
 ## Table of Contents
