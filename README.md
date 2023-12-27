@@ -1,2 +1,2 @@
-# GoBreaker
+# GoCircuit
 Circuit Breaker for Golang
