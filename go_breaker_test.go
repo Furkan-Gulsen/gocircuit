@@ -1,4 +1,4 @@
-package GoBreaker
+package gocircuit
 
 import (
 	"errors"
